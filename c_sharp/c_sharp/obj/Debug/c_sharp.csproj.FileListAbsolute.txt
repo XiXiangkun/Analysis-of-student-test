@@ -1,0 +1,12 @@
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\c_sharp.exe.config
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\c_sharp.exe
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\c_sharp.pdb
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\obj\Debug\c_sharp.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\obj\Debug\c_sharp.exe
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\obj\Debug\c_sharp.pdb
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\NPOI.dll
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\NPOI.OOXML.dll
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Scott\Desktop\interview\ak\c_sharp\c_sharp\bin\Debug\ICSharpCode.SharpZipLib.xml
